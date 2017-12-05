@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.github.leowing.commonutils.ScaleFragment">
+
+    <TextView
+        android:id="@+id/fragment_text"
+        android:layout_width="400px"
+        android:layout_height="200px"
+        android:layout_margin="24px"
+        android:background="#ff5251"
+        android:gravity="center"
+        android:padding="16px"
+        android:text="Oh! My Fragment!"
+        android:textColor="#ffffff"
+        android:textSize="48px" />
+
+</FrameLayout>
